@@ -786,5 +786,5 @@
     <string name="create_new_folder">Create new folder</string>
     <string name="uploads_view_upload_status_virus_detected">Virus detected. Upload cannot be completed!</string>
     <string name="whats_new_device_credentials_title">Use Android device protection</string>
-    <string name="whats_new_device_credentials_content">Use android internal device protection, e.g. pattern, password, pin or fingerprint. No need to re-setup it again.</string>
+    <string name="whats_new_device_credentials_content">Use anything like a pattern, password, pin or your fingerprint to keep your data safe.</string>
 </resources>
